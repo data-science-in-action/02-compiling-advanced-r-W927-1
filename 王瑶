@@ -1,0 +1,7 @@
+rstudio总是不能下载安装包
+// 报错 1
+Clone failed 
+early EOF 
+The remote end hung up unexpectedly 
+index-pack failed 
+RPC failed; curl 56 OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054
